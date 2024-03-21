@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! This is Team TRIOYJK </h2>
+
 
 ### Tools and Technologies
 <div align="center">
